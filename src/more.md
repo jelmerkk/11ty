@@ -1,6 +1,6 @@
 ---
 layout: 'base.njk'
-permalink: /
+permalink: /more
 title: 'My Eleventy 2nd page'
 ---
 
